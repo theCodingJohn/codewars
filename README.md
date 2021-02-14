@@ -8,6 +8,7 @@ Repository for my codewars' solutions
 
 ### 6kyu
 
+[N smallest elements in original order](https://www.codewars.com/kata/5aec1ed7de4c7f3517000079) // [Solution](https://github.com/theCodingJohn/codewars/blob/main/6kyu/firstNSmallest.js)  
 [Roman numerals decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005) // [Solution](https://github.com/theCodingJohn/codewars/blob/main/6kyu/romanNumeralsDecoder.js)  
 [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) // [Solution](https://github.com/theCodingJohn/codewars/blob/main/6kyu/findTheUniqueNumber.js)  
  [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006) // [Solution](https://github.com/theCodingJohn/codewars/blob/main/6kyu/multiplesOf3Or5.js)  
