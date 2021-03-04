@@ -22,6 +22,7 @@ Repository for my codewars' solutions
 
 ### 8kyu
 
+[Return negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) // [Solution](https://github.com/theCodingJohn/codewars/blob/main/8kyu/returnNegative.js)  
 [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381) // [Solution](https://github.com/theCodingJohn/codewars/blob/main/8kyu/sumOfPositive.js)  
 [L1: Bartender, drinks!](https://www.codewars.com/kata/568dc014440f03b13900001d) // [Solution](https://github.com/theCodingJohn/codewars/blob/main/8kyu/bartenderDrinks.js)  
 [Check the exam](https://www.codewars.com/kata/5a3dd29055519e23ec000074) // [Solution](https://github.com/theCodingJohn/codewars/blob/main/8kyu/checkTheExam.js)  
